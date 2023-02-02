@@ -3,11 +3,11 @@
 </p> -->
 
 <h3 align="center">
-👉 <a href="https://faseehirfan.github.io/portfolio"> Check out my website! </a> 👈
+👉 <a href="https://faseehirfan.github.io/portfolio" target="_blank"> Check out my website! </a> 👈
 </h3>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/faseehirfna/">
+  <a href="https://www.linkedin.com/in/faseehirfna/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:faseeh.irfan@uwaterloo.ca" target="_blank">
@@ -16,7 +16,7 @@
   <a href="mailto:faseeh_irfan@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Personal%20Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Badge"/>
   </a>
-  <a href="http://instagram.com/faseehirfan_/">
+  <a href="http://instagram.com/faseehirfan_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-f538ad?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 <!--   <a href="https://twitter.com/r4wsab">
@@ -26,7 +26,7 @@
 
 ## 🤓 About Me
 
-*Hi!* My name is Faseeh and I'm currently a first-year **Software Engineering student at the University of Waterloo.** I'm originally from **Vancouver, BC.** I love playing sports like **soccer**, and **hockey**. Feel free to check out my <a href="https://faseehirfan.github.io/portfolio">personal website</a>, <a href="https://www.linkedin.com/in/faseehirfan/">LinkedIn</a> profile, or my other socials linked above.
+*Hi!* My name is Faseeh and I'm currently a first-year **Software Engineering student at the University of Waterloo.** I'm originally from **Vancouver, BC.** I love playing sports like **soccer**, and **hockey**. Feel free to check out my <a href="https://faseehirfan.github.io/portfolio" target="_blank">personal website</a>, <a href="https://www.linkedin.com/in/faseehirfan/" target="_blank">LinkedIn</a> profile, or my other socials linked above.
 
 ## 💡 Skills (Languages & Platforms)
 
