@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
 <img src="https://user-images.githubusercontent.com/45187177/214447371-3722060e-515d-4d2d-bc09-23f998c71b7d.png" alt="Rawsab's GitHub Banner" width="1015"/>
-</p>
+</p> -->
 
 <h3 align="center">
 👉 <a href="https://faseehirfan.github.io/portfolio"> Check out my website! </a> 👈
