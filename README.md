@@ -3,30 +3,30 @@
 </p>
 
 <h3 align="center">
-👉 <a href="https://rawsab.com"> Check out my website! </a> 👈
+👉 <a href="https://faseehirfan.github.io/portfolio"> Check out my website! </a> 👈
 </h3>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/rawsabsaid/">
+  <a href="https://www.linkedin.com/in/faseehirfna/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="rsaid@uwaterloo.ca">
+  <a href="faseeh.irfan@uwaterloo.ca">
     <img src="https://img.shields.io/badge/Email-ECC035?style=for-the-badge&logo=microsoftoutlook&logoColor=black" alt="Email Badge"/>
   </a>
-  <a href="rawsab04@gmail.com">
+  <a href="faseeh_irfan@outlook.com">
     <img src="https://img.shields.io/badge/Personal%20Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Badge"/>
   </a>
-  <a href="http://instagram.com/rrawsab/">
+  <a href="http://instagram.com/faseehirfan_/">
     <img src="https://img.shields.io/badge/Instagram-f538ad?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://twitter.com/r4wsab">
+<!--   <a href="https://twitter.com/r4wsab">
     <img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a> -->
 </div>
 
 ## 🤓 About Me
 
-*Hi!* My name is Rawsab and I'm currently a first-year **Software Engineering student at the University of Waterloo.** I'm originally from **Toronto, ON,** however, I've lived across the world–including places like **Boston** and **Singapore!** I love hanging out with friends, exploring, and listening to music. Feel free to check out my <a href="https://rawsab.com">personal website</a>, <a href="https://www.linkedin.com/in/rawsabsaid/">LinkedIn</a> profile, or my other socials linked above.
+*Hi!* My name is Faseeh and I'm currently a first-year **Software Engineering student at the University of Waterloo.** I'm originally from **Vancouver, BC.** I love playing sports like **soccer**, and **hockey**. Feel free to check out my <a href="https://faseehirfan.github.io/portfolio">personal website</a>, <a href="https://www.linkedin.com/in/faseehirfan/">LinkedIn</a> profile, or my other socials linked above.
 
 ## 💡 Skills (Languages & Platforms)
 
