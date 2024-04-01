@@ -4,9 +4,6 @@
 <img src="https://user-images.githubusercontent.com/45187177/214447371-3722060e-515d-4d2d-bc09-23f998c71b7d.png" alt="Rawsab's GitHub Banner" width="1015"/>
 </p> -->
 
-<h3 align="center">
-👉 <a href="https://faseehirfan.github.io/portfolio" target="_blank"> Check out my website! </a> 👈
-</h3>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/faseehirfna/" target="_blank">
