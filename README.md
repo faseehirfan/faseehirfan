@@ -25,7 +25,7 @@
 
 ## 🤓 About Me
 
-*Hi!* My name is Faseeh and I'm currently a first-year **Software Engineering student at the University of Waterloo.** I'm originally from **Vancouver, BC.** I love playing sports like **soccer**, and **hockey**. Feel free to check out my <a href="https://faseehirfan.github.io/portfolio" target="_blank">personal website</a>, <a href="https://www.linkedin.com/in/faseehirfan/" target="_blank">LinkedIn</a> profile, or my other socials linked above.
+*Hi!* My name is Faseeh and I'm currently a second-year **Software Engineering student at the University of Waterloo.** I'm originally from **Vancouver, BC.** I love playing sports like **soccer**, and **hockey**. Feel free to check out my <a href="https://www.linkedin.com/in/faseehirfan/" target="_blank">LinkedIn</a> profile, or my other socials linked above.
 
 ## 💡 Skills (Languages & Platforms)
 
@@ -45,19 +45,3 @@
   <img src="https://img.shields.io/badge/Figma-459942?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
   <img src="https://img.shields.io/badge/Sketch-fcda2d?style=for-the-badge&logo=sketch&logoColor=black" alt="Sketch Badge"/>
 </div>
-
-
-<!--
-**rawsab/rawsab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
