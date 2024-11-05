@@ -15,6 +15,9 @@
   <a href="mailto:faseeh_irfan@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Personal%20Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Badge"/>
   </a>
+  <a href="https://www.faseehirfan.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-ECC035?style=for-the-badge&logo=globe&logoColor=black" alt="Website Badge"/>
+  </a>
 <!--   <a href="https://twitter.com/r4wsab">
     <img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a> -->
