@@ -25,7 +25,7 @@
 
 ## 🤓 About Me
 
-*Hi!* My name is Faseeh and I'm currently a thrid-year **Software Engineering student at the University of Waterloo.** I'm originally from **Vancouver, BC.** I love playing sports like **soccer**, and **hockey**. Feel free to check out my <a href="https://www.linkedin.com/in/faseehirfan/" target="_blank">LinkedIn</a> profile, or my other socials linked above.
+Third-year **Software Engineering student at the University of Waterloo.** Originally from **Vancouver, BC.** Love playing sports like **soccer**, and **hockey**. Feel free to check out my <a href="https://www.linkedin.com/in/faseehirfan/" target="_blank">LinkedIn</a> profile, or my other socials linked above.
 
 ## 💡 Skills (Languages & Platforms)
 
