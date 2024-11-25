@@ -1,10 +1,5 @@
 <h1> Faseeh Irfan </h1>
 
-<!-- <p align="center">
-<img src="https://user-images.githubusercontent.com/45187177/214447371-3722060e-515d-4d2d-bc09-23f998c71b7d.png" alt="Rawsab's GitHub Banner" width="1015"/>
-</p> -->
-
-
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/faseehirfna/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -18,16 +13,13 @@
   <a href="https://www.faseehirfan.com/" target="_blank">
     <img src="https://img.shields.io/badge/Website-ECC035?style=for-the-badge&logo=globe&logoColor=black" alt="Website Badge"/>
   </a>
-<!--   <a href="https://twitter.com/r4wsab">
-    <img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a> -->
 </div>
 
-## 🤓 About Me
+## About
 
 Third-year **Software Engineering student at the University of Waterloo.** Originally from **Vancouver, BC.** Love playing sports like **soccer**, and **hockey**. Feel free to check out my <a href="https://www.linkedin.com/in/faseehirfan/" target="_blank">LinkedIn</a> profile, or my other socials linked above.
 
-## 💡 Skills (Languages & Platforms)
+## Skills 
 
 <div id="badges">
     <img src="https://img.shields.io/badge/Python-27467a?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
