@@ -1,4 +1,4 @@
-<h1> Hi, I'm Faseeh! </h1>
+<h1> Faseeh Irfan </h1>
 
 <!-- <p align="center">
 <img src="https://user-images.githubusercontent.com/45187177/214447371-3722060e-515d-4d2d-bc09-23f998c71b7d.png" alt="Rawsab's GitHub Banner" width="1015"/>
