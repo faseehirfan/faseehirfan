@@ -30,16 +30,12 @@ Third-year **Software Engineering student at the University of Waterloo.** Origi
 ## 💡 Skills (Languages & Platforms)
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/C%20Programming-purple?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/>
+    <img src="https://img.shields.io/badge/Python-27467a?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/Javascript-f5ed56?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript Badge"/>
+  <img src="https://img.shields.io/badge/TypeScript-f5ed56?style=for-the-badge&logo=typescript&logoColor=black" alt="TypeScript Badge"/>
+  <img src="https://img.shields.io/badge/C-purple?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/>
   <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Badge"/>
   <img src="https://img.shields.io/badge/C%20Sharp-4b3b9c?style=for-the-badge&logo=csharp&logoColor=white" alt="C# Badge"/>
-  <img src="https://img.shields.io/badge/Python-27467a?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/Javascript-f5ed56?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript Badge"/>
-  <img src="https://img.shields.io/badge/React.js-9fedeb?style=for-the-badge&logo=react&logoColor=black" alt="ReactJS Badge"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-2ba3ed?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSC Badge"/>
-  <img src="https://img.shields.io/badge/XCode-0d5fa1?style=for-the-badge&logo=xcode&logoColor=white" alt="XCode Badge"/>
-  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  <img src="https://img.shields.io/badge/Unity-808080?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Badge"/>
-  <img src="https://img.shields.io/badge/Figma-459942?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
-  <img src="https://img.shields.io/badge/Sketch-fcda2d?style=for-the-badge&logo=sketch&logoColor=black" alt="Sketch Badge"/>
+  <img src="https://img.shields.io/badge/React.js-9fedeb?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/>
+  <img src="https://img.shields.io/badge/Next.js-9fedeb?style=for-the-badge&logo=nextdotjs&logoColor=black" alt="Next.js Badge"/>
 </div>
