@@ -25,7 +25,7 @@
 
 ## 🤓 About Me
 
-*Hi!* My name is Faseeh and I'm currently a second-year **Software Engineering student at the University of Waterloo.** I'm originally from **Vancouver, BC.** I love playing sports like **soccer**, and **hockey**. Feel free to check out my <a href="https://www.linkedin.com/in/faseehirfan/" target="_blank">LinkedIn</a> profile, or my other socials linked above.
+*Hi!* My name is Faseeh and I'm currently a thrid-year **Software Engineering student at the University of Waterloo.** I'm originally from **Vancouver, BC.** I love playing sports like **soccer**, and **hockey**. Feel free to check out my <a href="https://www.linkedin.com/in/faseehirfan/" target="_blank">LinkedIn</a> profile, or my other socials linked above.
 
 ## 💡 Skills (Languages & Platforms)
 
@@ -34,8 +34,6 @@
   <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Badge"/>
   <img src="https://img.shields.io/badge/C%20Sharp-4b3b9c?style=for-the-badge&logo=csharp&logoColor=white" alt="C# Badge"/>
   <img src="https://img.shields.io/badge/Python-27467a?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/Swift-orange?style=for-the-badge&logo=swift&logoColor=white" alt="Swift Badge"/>
-  <img src="https://img.shields.io/badge/HTML5-f23e11?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
   <img src="https://img.shields.io/badge/Javascript-f5ed56?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript Badge"/>
   <img src="https://img.shields.io/badge/React.js-9fedeb?style=for-the-badge&logo=react&logoColor=black" alt="ReactJS Badge"/>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-2ba3ed?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSC Badge"/>
