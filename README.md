@@ -32,8 +32,6 @@ Third-year **Software Engineering student at the University of Waterloo.** Origi
   <img src="https://img.shields.io/badge/Next.js-9fedeb?style=for-the-badge&logo=nextdotjs&logoColor=black" alt="Next.js Badge"/>
 </div>
 
-<img width="755" alt="image" src="" />
-
 
 ### Private Repository contributions
 
