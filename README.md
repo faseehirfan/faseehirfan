@@ -35,4 +35,4 @@ Third-year **Software Engineering student at the University of Waterloo.** Origi
 
 ### Private Repository contributions
 
-<img width="900" alt="image" src="https://github.com/user-attachments/assets/52f87ab5-b633-4fc1-b660-82eda12784a6" />
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/2c7b8de9-25da-49c5-b139-b37b4eec4c17" />
